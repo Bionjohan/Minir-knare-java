@@ -1,0 +1,24 @@
+.knapp{
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+#text_ruta{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+#text_ruta2{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+#svar_ruta{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+}
